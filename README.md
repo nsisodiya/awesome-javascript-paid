@@ -27,6 +27,11 @@ A collection of awesome paid services to speed up frontend development.
 
 * [Google Maps](https://cloud.google.com/maps-platform/pricing) - Google Maps API.
 
+## File Uploader
+*Upload your files*
+
+* [Innostudio Fileuploader](https://innostudio.de/fileuploader/) - Innostudio Fileuploader
+
 ## Tutorials
 *Learn from the experts, Just need to pay a little.*
 
