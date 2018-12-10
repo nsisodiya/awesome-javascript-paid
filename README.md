@@ -4,6 +4,7 @@ A collection of awesome paid services to speed up frontend development.
 
 * [Logging](#logging)
 * [Data Visualization](#data-visualization)
+* [Maps](#maps)
 
 ## Please Contribute to this repo.
 
@@ -19,6 +20,12 @@ A collection of awesome paid services to speed up frontend development.
 *Data visualization tools for the web.*
 
 * [stockcharts](https://stockcharts.com/) - Charting Tools.
+
+## Maps
+*Maps*
+
+* [Google Maps](https://cloud.google.com/maps-platform/pricing) - Google Maps API.
+
 
 
 
