@@ -21,6 +21,9 @@ A collection of awesome paid services to speed up frontend development.
 *Data visualization tools for the web.*
 
 * [stockcharts](https://stockcharts.com/) - Charting Tools.
+* [fusioncharts](https://www.fusioncharts.com/) - Enterprise grade JS Charting library.
+* [canvasJS](https://canvasjs.com/) - Performant and Beautiful HTML 5 JS  Charts.
+* [highcharts](http://highcharts.com/) - Interactive JS Charts.
 
 ## Maps
 *Maps*
@@ -38,9 +41,4 @@ A collection of awesome paid services to speed up frontend development.
 * [Frontend Masters](https://frontendmasters.com/) - Frontend Masters - $39 USD per month.
 * [Egg Videos](https://egghead.io/) - Egg Head videos - $40 USD per month.
 * [Nodejs Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class) - No Frameworks, No NPM, No Dependencies.
-
-
-
-
-
-
+* [Pluralsight](https://www.pluralsight.com/) - Tech Learning Platform - $29 USD per month.
