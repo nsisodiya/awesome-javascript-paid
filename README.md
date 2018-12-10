@@ -5,6 +5,7 @@ A collection of awesome paid services to speed up frontend development.
 * [Logging](#logging)
 * [Data Visualization](#data-visualization)
 * [Maps](#maps)
+* [Tutorials](#tutorials)
 
 ## Please Contribute to this repo.
 
@@ -25,6 +26,15 @@ A collection of awesome paid services to speed up frontend development.
 *Maps*
 
 * [Google Maps](https://cloud.google.com/maps-platform/pricing) - Google Maps API.
+
+## Tutorials
+*Learn from the experts, Just need to pay a little.*
+
+* [Frontend Masters](https://frontendmasters.com/) - Frontend Masters - $39 USD per month.
+* [Egg Videos](https://egghead.io/) - Egg Head videos - $40 USD per month.
+* [Nodejs Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class) - No Frameworks, No NPM, No Dependencies.
+
+
 
 
 
