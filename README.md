@@ -1,4 +1,4 @@
-# awesome-javascript-paid
+# Awesome Javascript (paid)
 
 A collection of awesome paid services to speed up frontend development.
 
